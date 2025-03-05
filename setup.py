@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="mkdocs-authors-plugin",
+    name="mkdocs-author-plugin",
     version="0.1.0",
     description="Add manually defined authors to MkDocs pages.",
     author="Jakob Klotz",
