@@ -12,7 +12,7 @@ setup(
     python_requires=">=3.11,<3.13",
     entry_points={
         "mkdocs.plugins": [
-            "authors = mkdocs_authors_plugin.plugin:AuthorsPlugin",
+            "authors = mkdocs_author_plugin.plugin:AuthorsPlugin",
         ]
     },
     classifiers=[
